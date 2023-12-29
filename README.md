@@ -1,6 +1,6 @@
 <h1 align="center"> mQuote </h1>
 <p align="center"> 
-  <img src="https://github.com/ggarone/mQuote/blob/master/stock.png"  width="120" height="120">
+  <img src="https://github.com/ggarone/mQuote/blob/main/stock.png"  width="120" height="120">
 </p>
 
 
