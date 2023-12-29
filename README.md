@@ -1,6 +1,6 @@
 <h1 align="center"> mQuote </h1>
 <p align="center"> 
-  <img src="https://github.com/Toory/mQuote/blob/master/stock.png"  width="120" height="120">
+  <img src="https://github.com/ggarone/mQuote/blob/master/stock.png"  width="120" height="120">
 </p>
 
 
@@ -8,7 +8,7 @@ mQuote is an application that allows you to download daily and historical end-of
 
 ## Installation
 
-	git clone 'https://github.com/Toory/mQuote'
+	git clone 'https://github.com/ggarone/mQuote'
 	cd mQuote/src/
 	virtualenv env
 	source ./env/bin/activate
